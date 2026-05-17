@@ -84,7 +84,7 @@ export default function Soiree() {
           </h2>
           <p className="mx-auto mt-6 max-w-2xl font-display text-xl italic leading-relaxed text-gray-700">
             Une robe rouge, une ville endormie, des lumières complices.
-            Quelque chose dans l'air te disait que ce soir, c'était pour toi.
+            Quelque chose dans l&apos;air te disait que ce soir, c&apos;était pour toi.
           </p>
         </motion.div>
 
