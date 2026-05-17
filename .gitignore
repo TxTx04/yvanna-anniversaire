@@ -40,3 +40,6 @@ next-env.d.ts
 
 # Photos sources (gardées localement, optimisées dans /public)
 _photos_source/
+Gmail/
+
+.vercel

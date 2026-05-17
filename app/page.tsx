@@ -6,6 +6,7 @@ import Qualities from "@/components/Qualities";
 import Quote from "@/components/Quote";
 import Gallery from "@/components/Gallery";
 import Travel from "@/components/Travel";
+import Soiree from "@/components/Soiree";
 import Letter from "@/components/Letter";
 import Wishes from "@/components/Wishes";
 import Footer from "@/components/Footer";
@@ -25,6 +26,7 @@ export default function HomePage() {
         <Quote />
         <Gallery />
         <Travel />
+        <Soiree />
         <Letter />
         <Wishes />
         <Footer />
